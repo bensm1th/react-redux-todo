@@ -1,0 +1,48 @@
+#todoInput {
+    margin-top: 135px;
+}
+
+img {
+    width: 60px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+#react {
+    color: #61dafb;
+    font-weight: 400;
+    text-align: center;
+    font-family: proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    line-height: 1.28;
+    font-size: 25px;
+}
+
+
+li:hover #delete {
+    display: block;
+}
+
+#delete {
+    display: none;
+}
+
+#delete:hover {
+    color: red;
+}
+
+#circle {
+    margin-right: 20px
+}
+#redux {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(65, 131, 196);
+    box-sizing: border-box;
+    letter-spacing: 0.2px;
+    line-height: 54.4px;
+}
+
+.header {
+    font-size: 25px;
+}
